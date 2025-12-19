@@ -1,0 +1,5 @@
+{
+  "name": "TPST Nurse Scheduling Dashboard",
+  "description": "A comprehensive nursing staff management system for TPST Hospital, featuring real-time shift monitoring, automated requests, and departmental scheduling oversight.",
+  "requestFramePermissions": []
+}
